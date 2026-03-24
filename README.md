@@ -1,2 +1,3 @@
-# -skuramoto03-.github.io
+# Open-Notes
 SKURAMOTO03の公開ノート．
+Now on preparation...
